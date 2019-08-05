@@ -1,0 +1,46 @@
+
+label {
+	display: block;
+} 
+button {
+	display: inline-block;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+}
+
+legend {
+	font-size: 25px;
+}
+
+a, a:visited {
+	border: 1px solid blue;
+	padding: 3px;
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover {
+	background-color: lightblue;
+}
+
+.fieldset-auto-width {
+	display: inline-block;
+}
+
+table {
+	border-spacing:0 10px
+}
+
+tr {;
+	text-align: center;
+}
+
+img {
+	width: 28px;
+	height: 20px;
+	margin: 0px 0px -7px 0px;
+	border: none;
+}
